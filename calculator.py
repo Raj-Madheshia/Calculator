@@ -1,7 +1,7 @@
 from tkinter import*
 root =Tk()
 
-root.title("Resaurant Management systems")
+root.title("Calculator")
 operator=""
 text_input=StringVar()
 
